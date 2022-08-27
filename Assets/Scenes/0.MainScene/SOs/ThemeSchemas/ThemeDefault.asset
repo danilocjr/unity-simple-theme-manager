@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43e69616c0e5a4a9dbf4baa68d54d3ce, type: 3}
+  m_Name: ThemeDefault
+  m_EditorClassIdentifier: 
+  imageSolidBg: {r: 0, g: 0, b: 0, a: 1}
+  formSolidBg: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 1}
+  textPrimary: {r: 1, g: 1, b: 1, a: 1}
+  textSecondary: {r: 0, g: 0.051671505, b: 1, a: 1}
+  textButton: {r: 1, g: 0.91517913, b: 0, a: 1}
+  textError: {r: 1, g: 0, b: 0, a: 1}
+  fontRegular: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  buttonPrimary: {fileID: 11400000, guid: b76577896e9c6492abf1f75a6b3d0db2, type: 2}
+  buttonSecondary: {fileID: 11400000, guid: 05c4079a54a5842f880b2681f3fd9da0, type: 2}
+  buttonOutro: {fileID: 11400000, guid: b2c9013385cb144a49963d96898fd7bd, type: 2}
